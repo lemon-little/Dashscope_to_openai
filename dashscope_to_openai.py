@@ -21,7 +21,7 @@ from sse_starlette.sse import EventSourceResponse
 from dashscope.api_entities.dashscope_response import Message
 
 model = dashscope.Generation.Models.qwen_plus
-dashscope.api_key = "sk-eca15a92a3ab4302993d540da2b1f94d" # Your Qwen API Key
+dashscope.api_key = "sk-。。。" # Your Qwen API Key
 
 app = FastAPI()
 
