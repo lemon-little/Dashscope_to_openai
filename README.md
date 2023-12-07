@@ -5,7 +5,7 @@
 
 开始前请先安装必要的代码库
 ```shell
-pip install fastapi uvicorn openai pydantic sse_starlette dashscope
+pip install fastapi uvicorn openai==0.28.0 pydantic sse_starlette dashscope
 ```
 
 在终端运行代码
